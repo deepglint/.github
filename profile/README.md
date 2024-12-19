@@ -3,7 +3,7 @@ This repository contains implementations and illustrative code to accompany Deep
 
 
 ## Project
-* [V-SWIFT]()
+* [V-SWIFT](https://github.com/deepglint/V-SWIFT)
 * [Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension](https://github.com/deepglint/Croc)
 * [Multi-label Cluster Discrimination for Visual Representation Learning](https://github.com/deepglint/unicom), ECCV2024
 * [VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling](https://github.com/daixiangzi/VAR-CLIP)
