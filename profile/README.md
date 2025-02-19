@@ -3,6 +3,7 @@ This repository contains implementations and illustrative code to accompany Deep
 
 
 ## Project
+* [RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](https://github.com/deepglint/RealSyn)
 * [Video Benchmark Suite: Rapid Evaluation of Video Foundation Models](https://github.com/deepglint/Video_Benchmark_Suite)
 * [V-SWIFT: Training a Small VideoMAE Model on a Single Machine in a Day](https://github.com/deepglint/V-SWIFT)
 * [Croc: Pretraining Large Multimodal Models with Cross-Modal Comprehension](https://github.com/deepglint/Croc)
