@@ -3,6 +3,7 @@ This repository contains implementations and illustrative code to accompany Deep
 
 
 ## Project
+* [Region-based Cluster Discrimination for Visual Representation Learning](https://github.com/deepglint/MVT), ICCV2025
 * [Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs](https://github.com/deepglint/UniME)
 * [FAST_LIO_LOCALIZATION_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID)
 * [RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm](https://github.com/deepglint/RealSyn)
