@@ -3,6 +3,8 @@ This repository contains implementations and illustrative code to accompany Deep
 
 
 ## Project
+* [UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://github.com/GaryGuTC/UniME-v2)
+* [LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5)
 * [Region-based Cluster Discrimination for Visual Representation Learning](https://github.com/deepglint/MVT), ICCV2025
 * [Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs](https://github.com/deepglint/UniME), ACMMM2025
 * [FAST_LIO_LOCALIZATION_HUMANOID](https://github.com/deepglint/FAST_LIO_LOCALIZATION_HUMANOID)
